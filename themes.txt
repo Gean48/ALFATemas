@@ -1,18 +1,6 @@
 [
 
 {
-  "theme_server":"Update",
-  "theme_name":"Alfa Temas",
-  "theme_user":"Alfa",
-  "theme_date":"15 de abril",
-  "theme_size":"1.2 MB",
-  "theme_preview_1":"https://telegra.ph/file/0259113bde7848328f2f2.jpg",
-  "theme_preview_2":"https://telegra.ph/file/af4bd432eacd1be4faed8.jpg",
-  "theme_preview_3":"https://telegra.ph/file/88ec2fc6e29cb8fddbe45.jpg",
-  "theme_download_noads":"https://bit.ly/3e9M5Ds",
-  "theme_download":"https://bit.ly/3e4EJkW"
-},
-{
   "theme_server":"DELTA",
   "theme_name":"Sub-Zero",
   "theme_user":"Gean",
