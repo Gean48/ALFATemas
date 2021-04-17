@@ -1,0 +1,9 @@
+{
+ "type":"banner",
+ "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "title":"Aprenda a baixar nossos temas clicando em OK",
+ "description":"Learn how to download our themes by clicking OK.\n\nAprenda a descargar nuestros temas haciendo clic en OK.",
+ "button_url":"OK",
+ "url":"https://modsalfa.blogspot.com/2021/04/encurtadores.html",
+ "id":"yuttu2qbermgp2"
+}
