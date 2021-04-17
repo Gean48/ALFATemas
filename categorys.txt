@@ -9,6 +9,5 @@
  "category_tags_4":"DELTA",
  "category_title_5":"AERO",
  "category_tags_5":"AERO"
-
 }
 
