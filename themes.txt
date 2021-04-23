@@ -542,7 +542,7 @@
 },
 {
   "theme_server":"WAMODS",
-  "theme_name":"YxWhatsApp Alfa",
+  "theme_name":"YxWA Alfa",
   "theme_user":"Dom Gean",
   "theme_date":"14 de abril",
   "theme_size":"53,97 MB",
