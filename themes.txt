@@ -584,7 +584,7 @@
   "theme_size":"47.81 MB",
   "theme_preview_1":"https://telegra.ph/file/fe2121f2d43cdb60d6000.jpg",
   "theme_preview_2":"https://telegra.ph/file/990d3e3c6d2d3a820ad0e.jpg",
-  "theme_preview_3":"https://telegra.ph/file/0b085bc820a1e062a70d3.jpg.jpg",
+  "theme_preview_3":"https://telegra.ph/file/0b085bc820a1e062a70d3.jpg",
   "theme_download_noads":"https://modsalfa.blogspot.com/2020/04/delta-yowa.html",
   "theme_download":"https://modsalfa.blogspot.com/2020/04/delta-yowa.html"
 },
