@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Update Alfa Temas",
- "description":"Corrigindo qualidade dos icones 🔥😏",
- "button_url":"SEGUIR",
+ "description":"Nova versão. Correção de qualidade dos ícones.\n\nNew version. Quality correction of icons.\n\nNueva versión. Corrección de calidad de iconos.",
+ "button_url":"download",
  "url":"https://www.mediafire.com/file/tapt0us9kjkwmoi/ALFA_Temas.apk/file",
- "id":"yutt21qbermgp2"
+ "id":"yutt22qbermgp2"
 }
