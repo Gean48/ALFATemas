@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Você tem Instagram ?",
- "description":"Siga o dono de Alfa Temas no Instagram 🔥😏",
+ "title":"Update",
+ "description":"Corrigindo qualidade dos icones 🔥😏",
  "button_url":"SEGUIR",
- "url":"https://www.instagram.com/dom_gean",
- "id":"yutt29qbermgp2"
+ "url":"https://www.mediafire.com/file/tapt0us9kjkwmoi/ALFA_Temas.apk/file",
+ "id":"yutt21qbermgp2"
 }
