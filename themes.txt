@@ -441,8 +441,8 @@
   "theme_preview_1":"https://telegra.ph/file/948b40a9cbefc6080ca41.jpg",
   "theme_preview_2":"https://telegra.ph/file/f80c5d985424d25c933f9.jpg",
   "theme_preview_3":"https://telegra.ph/file/6d3ea204ce0678865bd16.jpg",
-  "theme_download_noads":"https://tlgur.com/d/4Ra3PZvg",
-  "theme_download":"https://ljaguar.com/0bvbrETWx82D6nYfjor0By"
+  "theme_download_noads":"https://jaguarface.com/jf/W0i",
+  "theme_download":"https://jaguarface.com/jf/W0i"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -453,8 +453,8 @@
   "theme_preview_1":"https://telegra.ph/file/627ec558c9f8cf753d033.jpg",
   "theme_preview_2":"https://telegra.ph/file/1adaa4f18f8fec19a7e64.jpg",
   "theme_preview_3":"https://telegra.ph/file/c6694edf4e9724ca00ab2.jpg",
-  "theme_download_noads":"https://tlgur.com/d/g3vJ20vG",
-  "theme_download":"https://ljaguar.com/CZYMWZ3H1eDlbsQhR"
+  "theme_download_noads":"https://jaguarface.com/jf/Ylenr5",
+  "theme_download":"https://jaguarface.com/jf/Ylenr5"
 },
 {
   "theme_server":"FMWhatsApp",
@@ -465,8 +465,8 @@
   "theme_preview_1":"https://telegra.ph/file/506a60aa70206f6cd66c4.jpg",
   "theme_preview_2":"https://telegra.ph/file/780897082754beab0d963.jpg",
   "theme_preview_3":"https://telegra.ph/file/360c876053de74fb3a784.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://bit.ly/3cucOLo"
+  "theme_download_noads":"https://jaguarface.com/jf/JjFzer",
+  "theme_download":"https://jaguarface.com/jf/JjFzer"
 },
 {
   "theme_server":"FMWhatsApp",
@@ -489,8 +489,8 @@
   "theme_preview_1":"https://telegra.ph/file/e471766820d755af24a6f.jpg",
   "theme_preview_2":"https://telegra.ph/file/be4d7c7b573711a7f27fd.jpg",
   "theme_preview_3":"https://telegra.ph/file/1db004af76ef1b3227206.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://bit.ly/3sBzrDC"
+  "theme_download_noads":"https://jaguarface.com/jf/Rhbja1",
+  "theme_download":"https://jaguarface.com/jf/Rhbja1"
 },
 {
   "theme_server":"DELTA",
@@ -501,8 +501,8 @@
   "theme_preview_1":"https://telegra.ph/file/46cde839d12e4cde7d540.jpg",
   "theme_preview_2":"https://telegra.ph/file/4655195bc1cd82caa261a.jpg",
   "theme_preview_3":"https://telegra.ph/file/0d8743879361104076c78.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://bit.ly/3fgNSc3"
+  "theme_download_noads":"https://jaguarface.com/jf/UwD0hJ",
+  "theme_download":"https://jaguarface.com/jf/UwD0hJ"
 },
 {
   "theme_server":"DELTA",
@@ -513,8 +513,8 @@
   "theme_preview_1":"https://telegra.ph/file/024f61f7356ec01650fa0.jpg",
   "theme_preview_2":"https://telegra.ph/file/55e0489316869317980c5.jpg",
   "theme_preview_3":"https://telegra.ph/file/ea142fd05f2f5161ff3fc.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://bit.ly/3rpUg3j"
+  "theme_download_noads":"https://jaguarface.com/jf/7eeuK",
+  "theme_download":"https://jaguarface.com/jf/7eeuK"
 },
 {
   "theme_server":"DELTA",
@@ -525,8 +525,8 @@
   "theme_preview_1":"https://telegra.ph/file/4b74a080910cbacf3d9d8.jpg",
   "theme_preview_2":"https://telegra.ph/file/51c6f6f441ee16062c9db.jpg",
   "theme_preview_3":"https://telegra.ph/file/a6e791a919af2ea9c6415.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://bit.ly/3d5FmKy"
+  "theme_download_noads":"https://jaguarface.com/jf/KdKYagH",
+  "theme_download":"https://jaguarface.com/jf/KdKYagH"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -537,8 +537,8 @@
   "theme_preview_1":"https://telegra.ph/file/11684aaeb3198ce451c4a.jpg",
   "theme_preview_2":"https://telegra.ph/file/885473122dc222abbc5c8.jpg",
   "theme_preview_3":"https://telegra.ph/file/570c3ebb2b7f82f8b7bdc.jpg",
-  "theme_download_noads":"https://tlgur.com/d/8BrAMMl8",
-  "theme_download":"https://bit.ly/3roXiFb"
+  "theme_download_noads":"https://jaguarface.com/jf/oRbAz",
+  "theme_download":"https://jaguarface.com/jf/oRbAz"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -549,8 +549,8 @@
   "theme_preview_1":"https://telegra.ph/file/52909e8696975466d81cf.jpg",
   "theme_preview_2":"https://telegra.ph/file/b819db7543e0fca3110e9.jpg",
   "theme_preview_3":"https://telegra.ph/file/e85cdbb6777983d8d150b.jpg",
-  "theme_download_noads":"https://bit.ly/3q1Ccfh",
-  "theme_download":"https://tlgur.com/d/8ekwOOBg"
+  "theme_download_noads":"https://jaguarface.com/jf/7cQM",
+  "theme_download":"https://jaguarface.com/jf/7cQM"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -561,8 +561,8 @@
   "theme_preview_1":"https://telegra.ph/file/39fae9c211e077801888e.jpg",
   "theme_preview_2":"https://telegra.ph/file/74b26b6594ed6edc16f25.jpg",
   "theme_preview_3":"https://telegra.ph/file/20b1e108081830f096387.jpg",
-  "theme_download_noads":"https://tlgur.com/d/g2Z0DDlg",
-  "theme_download":"https://bit.ly/395csZN"
+  "theme_download_noads":"https://jaguarface.com/jf/cick",
+  "theme_download":"https://jaguarface.com/jf/cick"
 },
 {
   "theme_server":"FMWhatsApp",
