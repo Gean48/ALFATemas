@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Update Alfa Temas",
- "description":"Nova versão. Correção de qualidade dos ícones.\n\nNew version. Quality correction of icons.\n\nNueva versión. Corrección de calidad de iconos.",
- "button_url":"download",
- "url":"https://www.mediafire.com/file/tapt0us9kjkwmoi/ALFA_Temas.apk/file",
- "id":"yutt22qbermgp2"
+ "title":"Você joga 8 ball pool?",
+ "description":"Tenha já fichas, notas e tacos lendários em sua conta! Compre já com ALFA Mods (Gean).\n\nHave legendary chips, notes and clubs in your account now! Buy now with ALFA Mods (Gean)\n\n¡Tenga fichas, notas y palos legendarios en su cuenta ahora! Compre ahora con ALFA Mods (Gean)",
+ "button_url":"comprar",
+ "url":"https://api.whatsapp.com/send?phone=5533999140951&text=%238BallPool%20quero%20comprar",
+ "id":"yutt23qbermgp2"
 }
