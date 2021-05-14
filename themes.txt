@@ -770,9 +770,9 @@
 },
 {
   "theme_server":"WAMODS",
-  "theme_name":"AERO WHATSAPP V8.80",
+  "theme_name":"AERO WHATSAPP V8.86",
   "theme_user":"Dom Gean",
-  "theme_date":"12 de maio",
+  "theme_date":"14 de maio",
   "theme_size":"66.7 MB",
   "theme_preview_1":"https://telegra.ph/file/9b8c5362cf595622ecea7.jpg",
   "theme_preview_2":"https://telegra.ph/file/1e9fd260a1f3cafb403aa.jpg",
