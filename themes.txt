@@ -2,6 +2,18 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Goku",
+  "theme_user":"Dom Gean",
+  "theme_date":"17 de maio",
+  "theme_size":"192.14 KB",
+  "theme_preview_1":"https://telegra.ph/file/a7dbd69c8fc8238e3af83.jpg",
+  "theme_preview_2":"https://telegra.ph/file/32176c0e13c7d20849cd7.jpg",
+  "theme_preview_3":"https://telegra.ph/file/fb93d09e0c1741e37322e.jpg",
+  "theme_download_noads":"https://jaguarface.com/jf/fYRu9",
+  "theme_download":"https://jaguarface.com/jf/fYRu9"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Unicórnio",
   "theme_user":"Dom Gean",
   "theme_date":"16 de maio",
