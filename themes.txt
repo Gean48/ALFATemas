@@ -8,7 +8,7 @@
   "theme_size":"192.14 KB",
   "theme_preview_1":"https://telegra.ph/file/5a01275b5ad55cf8d5565.jpg",
   "theme_preview_2":"https://telegra.ph/file/950a9817ed6ad364716ca.jpg",
-  "theme_preview_3":"https://telegra.ph/file/adad324d10a10fe8461a1.jpg https://telegra.ph/file/adad324d10a10fe8461a1.jpg",
+  "theme_preview_3":"https://telegra.ph/file/adad324d10a10fe8461a1.jpg",
   "theme_download_noads":"https://jaguarface.com/jf/RFMZo",
   "theme_download":"https://jaguarface.com/jf/RFMZo"
 },
