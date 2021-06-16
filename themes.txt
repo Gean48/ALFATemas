@@ -2,6 +2,30 @@
 
 {
   "theme_server":"YxWhatsApp",
+  "theme_name":"IOS Dark",
+  "theme_user":"Dom Gean",
+  "theme_date":"15 de junho",
+  "theme_size":"1.8 MB",
+  "theme_preview_1":"https://telegra.ph/file/ee88d0fd7e8d3c2d6bd09.jpg",
+  "theme_preview_2":"https://telegra.ph/file/b7454bfd702c5311f975c.jpg",
+  "theme_preview_3":"https://telegra.ph/file/6bae9a4b10fce24200b01.jpg",
+  "theme_download_noads":"https://jaguarface.com/jf/NiwpR",
+  "theme_download":"https://jaguarface.com/jf/NiwpR"
+},
+{
+  "theme_server":"YxWhatsApp",
+  "theme_name":"IOS White",
+  "theme_user":"Dom Gean",
+  "theme_date":"15 de junho",
+  "theme_size":"1.8 MB",
+  "theme_preview_1":"https://telegra.ph/file/80cd330021a344741c827.jpg",
+  "theme_preview_2":"https://telegra.ph/file/bfcc5bf54a648d168896d.jpg",
+  "theme_preview_3":"https://telegra.ph/file/9ec89dff6210144adb541.jpg",
+  "theme_download_noads":"https://jaguarface.com/jf/l8ePiV",
+  "theme_download":"https://jaguarface.com/jf/l8ePiV"
+},
+{
+  "theme_server":"YxWhatsApp",
   "theme_name":"Goku",
   "theme_user":"Dom Gean",
   "theme_date":"14 de junho",
