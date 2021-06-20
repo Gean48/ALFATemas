@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Você joga 8 ball pool?",
- "description":"Tenha já fichas, notas e tacos lendários em sua conta! Compre já com ALFA Mods (Gean).\n\nHave legendary chips, notes and clubs in your account now! Buy now with ALFA Mods (Gean)\n\n¡Tenga fichas, notas y palos legendarios en su cuenta ahora! Compre ahora con ALFA Mods (Gean)",
+ "description":"Você não tem Telegram ? Tenha ja suporte via WhatsApp. Participe do nosso grupo (não ouvimos audios).",
  "button_url":"comprar",
- "url":"https://api.whatsapp.com/send?phone=5533999140951&text=%238BallPool%20quero%20comprar",
- "id":"yutt23qbermgp2"
+ "url":"https://chat.whatsapp.com/Gvrlc5nDZogHF1YB4MWZiV",
+ "id":"yutt56qbermgp2"
 }
