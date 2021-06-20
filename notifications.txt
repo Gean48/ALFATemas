@@ -1,7 +1,7 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Você joga 8 ball pool?",
+ "title":"Suporte ALFA Temas",
  "description":"Você não tem Telegram ? Tenha ja suporte via WhatsApp. Participe do nosso grupo (não ouvimos audios).",
  "button_url":"comprar",
  "url":"https://chat.whatsapp.com/Gvrlc5nDZogHF1YB4MWZiV",
