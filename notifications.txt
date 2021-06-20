@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Suporte ALFA Temas",
- "description":"Você não tem Telegram ? Tenha ja suporte via WhatsApp. Participe do nosso grupo (não ouvimos audios).",
+ "title":"Quer seus temas aqui ?",
+ "description":"Poste seus temas nessa loja e ganhe dinheiro! Entre em contato pelo grupo no Telegram.",
  "button_url":"entrar",
- "url":"https://chat.whatsapp.com/Gvrlc5nDZogHF1YB4MWZiV",
- "id":"yutt56qbermgp2"
+ "url":"https://t.me/AMGrupo",
+ "id":"yutt59qbermgp2"
 }
