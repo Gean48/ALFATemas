@@ -974,9 +974,9 @@
 },
 {
   "theme_server":"WAMODS",
-  "theme_name":"DELTA Alfa V3.7.2F",
+  "theme_name":"DELTA Alfa V3.7.3",
   "theme_user":"Dom Gean",
-  "theme_date":"12 de junho",
+  "theme_date":"28 de junho",
   "theme_size":"55.48 MB",
   "theme_preview_1":"https://telegra.ph/file/13f40c1f31968ba43de36.jpg",
   "theme_preview_2":"https://telegra.ph/file/b145cd91944569838323a.jpg",
