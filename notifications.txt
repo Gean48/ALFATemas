@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Quer seus temas aqui ?",
- "description":"Poste seus temas nessa loja e ganhe dinheiro! Entre em contato pelo grupo no Telegram.",
- "button_url":"entrar",
- "url":"https://t.me/AMGrupo",
- "id":"yutt59qbermgp2"
+ "title":"Já segue Dom Gean no Instagram ?",
+ "description":"Siga ele para sabermos o quanto essa loja é usada :)",
+ "button_url":"seguir",
+ "url":"https://www.instagram.com/dom_gean/?hl=pt-br",
+ "id":"yutt74qbermgp2"
 }
