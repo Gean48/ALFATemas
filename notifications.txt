@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Já segue Dom Gean no Instagram ?",
- "description":"Siga ele para sabermos o quanto essa loja é usada :)",
- "button_url":"seguir",
- "url":"https://www.instagram.com/dom_gean/?hl=pt-br",
- "id":"yutt74qbermgp2"
+ "title":"Vaquinha para comprar uma nova fonte",
+ "description":"Sim, a minha estragou 😢 em um momento que não dá para comprar outra por motivos de "tratamento de saúde". Então se querem continuar a usar (DELTA ALFA, YX ALFA, FOUAD ALFA, SPACE) - agradeço a colaboração de cada um 🙏🏻 ",
+ "button_url":"doar",
+ "url":"http://vaka.me/2233803",
+ "id":"yutt99qbermgp2"
 }
