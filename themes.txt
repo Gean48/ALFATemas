@@ -2,6 +2,18 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Vegeta",
+  "theme_user":"Dom Gean",
+  "theme_date":"18 de julho",
+  "theme_size":"1.28 MB",
+  "theme_preview_1":"https://telegra.ph/file/6c3287058e4c5fd027981.jpg",
+  "theme_preview_2":"https://telegra.ph/file/72c82369ea3f065faba7e.jpg",
+  "theme_preview_3":"https://telegra.ph/file/ec9b0813113e90f832f63.jpg",
+  "theme_download_noads":"https://jaguarface.com/jf/xeZPGy",
+  "theme_download":"https://jaguarface.com/jf/xeZPGy"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Naruto",
   "theme_user":"Dom Gean",
   "theme_date":"15 de jullho",
