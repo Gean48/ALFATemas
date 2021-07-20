@@ -2,7 +2,7 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Grupo de suporte",
- "description":"Participe do nosso grupo de suportew no Facebook e fique por dentro das novidades!",
+ "description":"Participe do nosso grupo de suporte no Facebook e fique por dentro das novidades!",
  "button_url":"participar",
  "url":"https://www.facebook.com/groups/suportewhatsapp",
  "id":"yutt187qbermgp2"
