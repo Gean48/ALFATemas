@@ -10,5 +10,5 @@
   "theme_preview_3": "https://telegra.ph/file/8ed4e7556caf4d1afeb95.png",
   "theme_download_noads": "https://modsalfa.blogspot.com/2020/04/temas.html",
   "theme_download": "https://modsalfa.blogspot.com/2020/04/temas.html"
-},
+}
 ]
